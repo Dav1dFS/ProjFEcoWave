@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Interactable
+  - Baus
+  - Ecopontos
+  - "Cart\xE3o"
+  - "Pl\xE1stico"
+  - Vidro
+  - EcopontoVerde
+  - EcopontoAzul
+  - EcopontoAmarelo
+  - CoinText
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - SolidObjects
+  - Interactable
+  - Colliders
+  - Minimap
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: col
+    uniqueID: 2400999951
+    locked: 0
